@@ -42,3 +42,7 @@ nosetests.xml
 
 # Translations
 *.mo
+
+dictionaries/
+bigDictionary
+smallDictionary
